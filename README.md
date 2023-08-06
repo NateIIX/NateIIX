@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nate
+- Currently Working on C++ & Python
+- Developing a Game.
+- ![50c1bbbabad04818a8de4cdd2488f0d6](https://github.com/NateIIX/NateIIX/assets/141546047/1ca7c633-4b2c-442c-880f-a2f1882a2752)
